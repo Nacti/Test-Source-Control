@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Premier commit")
         print("Deuxieme commit")
-    
+        print("test 3")
     }
 
     override func didReceiveMemoryWarning() {
