@@ -79,7 +79,6 @@
 		E537B6B820E6BA3000E105F3 = {
 			isa = PBXGroup;
 			children = (
-				E537B6F220E6C2DC00E105F3 /* test.swift */,
 				E537B6C320E6BA3000E105F3 /* 48 - GitHub */,
 				E537B6D820E6BA3200E105F3 /* 48 - GitHubTests */,
 				E537B6E320E6BA3200E105F3 /* 48 - GitHubUITests */,
@@ -100,6 +99,7 @@
 		E537B6C320E6BA3000E105F3 /* 48 - GitHub */ = {
 			isa = PBXGroup;
 			children = (
+				E537B6F220E6C2DC00E105F3 /* test.swift */,
 				E537B6C420E6BA3000E105F3 /* AppDelegate.swift */,
 				E537B6C620E6BA3000E105F3 /* ViewController.swift */,
 				E537B6C820E6BA3000E105F3 /* Main.storyboard */,
@@ -441,7 +441,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-8---GitHub.-8---GitHub";
+				PRODUCT_BUNDLE_IDENTIFIER = "-9---Merge--Branches";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -459,7 +459,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-8---GitHub.-8---GitHub";
+				PRODUCT_BUNDLE_IDENTIFIER = "-9---Merge--Branches";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
